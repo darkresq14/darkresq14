@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on changing my career path towards DevOps
 - 🌱 I’m currently learning Azure, AWS, Docker, Kubernetes, Jenkins, etc.
-- 📫 How to reach me: razvan.bielz@gmail.com
+- 📫 How to reach me: 
+  - razvan.bielz@gmail.com
+  - https://darkresq14.github.io/
+  - https://rbielz.info/
 - ⚡ Fun fact: I am also interested in cybersec
