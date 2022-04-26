@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on changing my career path towards Full Stack Developer
 - 🌱 I’m currently learning React, React Native, Express, CSS, etc.
-- 💬 Please check out my [Résumé](https://bit.ly/RazvanBielzCV)  
+- 💬 Please check out my [:link: Résumé](https://bit.ly/RazvanBielzCV)  
 - 📫 How to reach me: 
-  - razvan.bielz@gmail.com
-  - https://darkresq14.github.io/
-  - https://rbielz.info/
+  - :e-mail: razvan.bielz@gmail.com
+  - :globe_with_meridians: [darkresq14.github.io](https://darkresq14.github.io/)
+  - :bust_in_silhouette: [rbielz.info](https://rbielz.info/)
+  - :white_check_mark: [linkedin.com/in/razvan-bielz/](https://www.linkedin.com/in/razvan-bielz/)
 - ⚡ Fun fact: I am also interested in Cybersecurity and Ethical Hacking
