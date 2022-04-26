@@ -10,10 +10,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-- 🔭 I’m currently working on changing my career path towards DevOps
-- 🌱 I’m currently learning Azure, AWS, Docker, Kubernetes, Jenkins, etc.
+- 🔭 I’m currently working on changing my career path towards Full Stack Developer
+- 🌱 I’m currently learning React, React Native, Express, CSS, etc.
+- 💬 Download my CV at https://bit.ly/RazvanBielzCV
 - 📫 How to reach me: 
   - razvan.bielz@gmail.com
   - https://darkresq14.github.io/
   - https://rbielz.info/
-- ⚡ Fun fact: I am also interested in cybersec
+- ⚡ Fun fact: I am also interested in Cybersecurity and Ethical Hacking
