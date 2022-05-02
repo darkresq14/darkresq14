@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on changing my career path towards Full Stack Developer
 - 🌱 I’m currently learning React, React Native, Express, CSS, etc.
-- 💬 Please check out my [:link: Résumé](https://bit.ly/RazvanBielzCV)  
+- 💬 Please check out my [:link: Résumé](https://drive.google.com/file/d/1PzC6uF_nU7XKHkipFm2x_SLR8rsHV6CH/view?usp=sharing)  
 - 📫 How to reach me: 
   - :e-mail: razvan.bielz@gmail.com
   - :globe_with_meridians: [darkresq14.github.io](https://darkresq14.github.io/)
