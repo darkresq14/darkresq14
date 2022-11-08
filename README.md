@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 💬 Please check out my [:link: Résumé](https://drive.google.com/file/d/1PzC6uF_nU7XKHkipFm2x_SLR8rsHV6CH/view?usp=sharing)  
 - 📫 How to reach me: 
   - :e-mail: razvan.bielz@gmail.com
-  - :globe_with_meridians: [darkresq14.github.io](https://darkresq14.github.io/)
-  - :bust_in_silhouette: [rbielz.info](https://rbielz.info/)
   - :white_check_mark: [linkedin.com/in/razvan-bielz/](https://www.linkedin.com/in/razvan-bielz/)
 - ⚡ Fun fact: I am also interested in Cybersecurity and Ethical Hacking
+
+<!--  - :globe_with_meridians: [darkresq14.github.io](https://darkresq14.github.io/)
+  - :bust_in_silhouette: [rbielz.info](https://rbielz.info/) -->
